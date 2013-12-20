@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.618, 51.963]
+            },
+            "properties": {
+                "location": "Münster",
+                "name": "Fussgängertunnel unter dem Schlossplatz in Münster",
+                "text": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.092, 52.125]
+            },
+            "properties": {
+                "location": "Heek",
+                "name": "V2 Abschussrampe",
+                "text": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.335, 51.699]
+            },
+            "properties": {
+                "location": "Bei Olfen",
+                "name": "Das Rätsel der Lippe",
+                "text": ""
+            }
+        }
+    ]
+}
